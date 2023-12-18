@@ -20,7 +20,6 @@ class Voter {
         this.age = age;
     }
 
-    // Other methods and getters/setters here
 }
 
 public class VoterManagementSystem {
